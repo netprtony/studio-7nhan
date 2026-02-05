@@ -18,6 +18,7 @@ export default defineType({
       options: {
         list: [
           { title: 'Món Khai Vị', value: 'appetizer' },
+          { title: 'Món Chính', value: 'main' },
           { title: 'Hải Sản', value: 'seafood' },
           { title: 'Đặc Sản', value: 'specialty' },
           { title: 'Lẩu & Súp', value: 'hotpot' },
